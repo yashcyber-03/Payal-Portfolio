@@ -3,7 +3,7 @@ export const creator = {
   name: 'Payal Biswas',
   title: 'Content Creator',
   location: 'Kolkata, India',
-  email: import.meta.env.VITE_CONTACT_EMAIL || 'hello@payalbiswas.com',
+  email: import.meta.env.VITE_CONTACT_EMAIL || 'biswaspayal06@gmail.com',
   headline: 'Making things people stop scrolling for.',
   intro: 'I create visual stories and short-form content that feel honest, polished, and worth pausing for — from brand moments to everyday life in motion.',
   aboutLead: 'I started creating to turn everyday details into memorable stories, and I care about work that feels personal, intentional, and beautifully human.',
