@@ -8,6 +8,6 @@ export const projects = [
   p(4, '📍Mia by Tanishq – Nagpur', 'Instagram Reels', 'Instagram', 'A special moment while exploring a beautiful jewelry collection.', 'aspect-[4/5]', 'https://www.instagram.com/reel/DfRz_SDhgrc/?utm_source=ig_web_copy_link&srtk=MzRlODBiNWFlZA==', '/images/work-4.png', '/images/work4.MP4'),
   p(5, 'A Night Out', 'Lifestyle', 'Instagram', 'A candid evening portrait beneath the city lights.', 'aspect-[4/5]', '', '/images/work-5.png'),
   p(6, 'A Hands-on Pottery Moment', 'Travel & Food', 'YouTube', 'A creative moment shaping clay in a peaceful outdoor setting.', 'aspect-[4/5]', '', '/images/work-6.png'),
-  p(7, 'Instagram Reel 07', 'Instagram Reels', 'Instagram', 'A short-form video from Payal’s Instagram.', 'aspect-[4/5]', '', '/images/work-7.png', '/images/work7.MP4'),
-  p(8, 'Chitnavis Center, Civil Lines', 'Lifestyle', 'Instagram', 'A visit to a local market, exploring colorful bangles and accessories.', 'aspect-[4/5]', '', '/images/work-8.png', '/images/work8.MP4')
+  p(7, 'Golden Hour Frame', 'Instagram Reels', 'Instagram', 'A warm, cinematic reel blending motion, texture, and a soft evening glow.', 'aspect-[4/5]', '', '/images/work-7.png', '/images/work7.MP4'),
+  p(8, 'Bangles & Bloom', 'Lifestyle', 'Instagram', 'A colorful market walk filled with texture, light, and the charm of everyday detail.', 'aspect-[4/5]', '', '/images/work-8.png', '/images/work8.MP4')
 ]
