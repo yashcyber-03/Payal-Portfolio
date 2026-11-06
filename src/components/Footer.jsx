@@ -12,7 +12,6 @@ export default function Footer() {
           <a href={site.instagram} target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="inline-flex hover:text-brown"><Instagram size={20} /></a>
         </div>
       </div>
-      <p className="max-w-7xl mx-auto mt-12 pt-6 border-t border-cream/15 text-xs text-cream/60 leading-relaxed">{site.disclaimer}</p>
     </footer>
   )
 }
